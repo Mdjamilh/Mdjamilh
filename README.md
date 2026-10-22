@@ -11,7 +11,7 @@
 | Project | What it does | Live |
 |---|---|---|
 | [clinic-appointment-scheduler](https://github.com/Mdjamilh/clinic-appointment-scheduler) | Lets patients find a doctor, see open times and book, change or cancel appointments online, while clinic staff see the day's schedule at a glance | [Demo](https://clinic-appointment-scheduler-kappa.vercel.app) |
-| [carenote-ai](https://github.com/Mdjamilh/carenote-ai) | Turns a doctor–patient conversation into a tidy visit summary for the doctor to review, removing names and other personal details first | [Demo](https://carenote-ai-nine.vercel.app) |
+| [care-note-ai](https://github.com/Mdjamilh/care-note-ai) | Turns a doctor–patient conversation into a tidy visit summary for the doctor to review, removing names and other personal details first | [Demo](https://carenote-ai-nine.vercel.app) |
 | [guideline-rag-search](https://github.com/Mdjamilh/guideline-rag-search) | Answers everyday health questions such as "When should I get screened for colon cancer?" and shows which official guideline each answer comes from | [Demo](https://guideline-rag-search.vercel.app) |
 | [medtrack-api](https://github.com/Mdjamilh/medtrack-api) | The service behind a medication reminder app: it keeps track of medicines and schedules, records doses taken, and reports how well someone is keeping to their plan | [Docs](https://medtrack-api-sigma.vercel.app/docs) |
 
