@@ -1,16 +1,16 @@
-<h1 align="center">Hi, I'm Md. Jamil Hossain 👋</h1>
+<h1 align="center">Hi, I'm Md. Jamil Hossain</h1>
 <h3 align="center">Full-stack developer building healthcare software with TypeScript, React and PostgreSQL</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mdjamilh&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🩺 I build web apps and APIs for healthcare: scheduling, clinical documentation and medication tracking
-- 🔐 I care about the unglamorous parts: privacy, accessibility, tests and clear docs
-- 🧠 Currently exploring retrieval-augmented generation and healthcare interoperability (FHIR, HL7)
-- 🌱 Always happy to read an existing codebase and ship something useful in it
+- I build web apps and APIs for healthcare: scheduling, clinical documentation and medication tracking
+- I care about the unglamorous parts: privacy, accessibility, tests and clear docs
+- Currently exploring retrieval-augmented generation and healthcare interoperability (FHIR, HL7)
+- Always happy to read an existing codebase and ship something useful in it
 
-<h2>🚀 Featured projects</h2>
+<h2>Featured projects</h2>
 
 | Project | What it does | Stack | Live |
 |---|---|---|---|
@@ -19,7 +19,7 @@
 | [**guideline-rag-search**](https://github.com/Mdjamilh/guideline-rag-search) | Cited answers from preventive-care guidelines using hybrid pgvector and full-text retrieval, with evals in CI | Next.js · pgvector · Ollama · RAG | [Demo](https://guideline-rag-search.vercel.app) |
 | [**medtrack-api**](https://github.com/Mdjamilh/medtrack-api) | REST API for medication schedules, dose logging and adherence reports | Express 5 · TypeScript · JWT · OpenAPI · Docker | [Docs](https://medtrack-api-sigma.vercel.app/docs) |
 
-<h2>📊 GitHub stats</h2>
+<h2>GitHub stats</h2>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mdjamilh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
@@ -30,13 +30,13 @@
   <img src="https://streak-stats.demolab.com?user=Mdjamilh&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<h2>🏆 Trophies</h2>
+<h2>Trophies</h2>
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=Mdjamilh&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies" />
 </p>
 
-<h2>🛠️ Tech stack</h2>
+<h2>Tech stack</h2>
 
 <h4>Languages</h4>
 
