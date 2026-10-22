@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Md. Jamil Hossain <br> Full-stack developer building healthcare software</h1>
+<h1 align="center">Hi, I'm Md. Jamil Hossain <br> Full-stack developer</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mdjamilh" alt="Mdjamilh" /> </p>
 
-- I build web apps and APIs for healthcare: scheduling, clinical documentation and medication tracking
-- I care about the unglamorous parts: privacy, accessibility, tests and clear documentation
-- Currently exploring retrieval-augmented generation and healthcare interoperability (FHIR, HL7)
+- I mostly work with TypeScript, React, Next.js, Node.js and PostgreSQL
+- I enjoy building features end to end: database, API, UI, tests and documentation
+- Currently learning more about AI integrations and search
 
 <h2> Featured Projects </h2>
 
