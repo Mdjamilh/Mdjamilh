@@ -78,6 +78,5 @@
   [![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)](#)
   [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)](#)
   [![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](#)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
 </span>
