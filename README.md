@@ -15,6 +15,7 @@
 | [guideline-rag-search](https://github.com/Mdjamilh/guideline-rag-search) | Answers everyday health questions such as "When should I get screened for colon cancer?" and shows which official guideline each answer comes from | [Demo](https://guideline-rag-search.vercel.app) |
 | [medtrack-api](https://github.com/Mdjamilh/medtrack-api) | The service behind a medication reminder app: it keeps track of medicines and schedules, records doses taken, and reports how well someone is keeping to their plan | [Docs](https://medtrack-api-sigma.vercel.app/docs) |
 | [hl7-parser-ts](https://github.com/Mdjamilh/hl7-parser-ts) | A toolkit for developers to read, check and reply to the messages hospital systems send each other, such as admissions and lab results | [Code](https://github.com/Mdjamilh/hl7-parser-ts#readme) |
+| [realtime-kanban](https://github.com/Mdjamilh/realtime-kanban) | A task board where several people can move cards around at once and everyone sees the same thing instantly, even after working offline for a while | [Demo](https://realtime-kanban-eight.vercel.app) |
 
 <h2> Trophies </h2>
 
@@ -57,6 +58,7 @@
 
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)
   ![pgvector](https://img.shields.io/badge/pgvector-4169E1?logo=postgresql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
 
 </span>
 
@@ -76,6 +78,7 @@
   [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
   [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)](#)
   [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](#)
+  [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
   [![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)](#)
   [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)](#)
   [![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](#)
