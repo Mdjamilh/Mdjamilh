@@ -14,6 +14,7 @@
 | [care-note-ai](https://github.com/Mdjamilh/care-note-ai) | Turns a doctor–patient conversation into a tidy visit summary for the doctor to review, removing names and other personal details first | [Demo](https://carenote-ai-nine.vercel.app) |
 | [guideline-rag-search](https://github.com/Mdjamilh/guideline-rag-search) | Answers everyday health questions such as "When should I get screened for colon cancer?" and shows which official guideline each answer comes from | [Demo](https://guideline-rag-search.vercel.app) |
 | [medtrack-api](https://github.com/Mdjamilh/medtrack-api) | The service behind a medication reminder app: it keeps track of medicines and schedules, records doses taken, and reports how well someone is keeping to their plan | [Docs](https://medtrack-api-sigma.vercel.app/docs) |
+| [hl7-parser-ts](https://github.com/Mdjamilh/hl7-parser-ts) | A toolkit for developers to read, check and reply to the messages hospital systems send each other, such as admissions and lab results | [Code](https://github.com/Mdjamilh/hl7-parser-ts#readme) |
 
 <h2> Trophies </h2>
 
