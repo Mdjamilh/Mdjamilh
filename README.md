@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Md. Jamil Hossain</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mdjamilh&label=Profile%20views&color=0e75b6&style=flat" alt="Mdjamilh" /> </p>
+<p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Mdjamilh.Mdjamilh&left_text=Profile%20views&right_color=%230e75b6" alt="Mdjamilh" /> </p>
 
 - I mostly work with TypeScript, React, Next.js, Node.js and PostgreSQL
 - I enjoy building features end to end: database, API, UI, tests and documentation
