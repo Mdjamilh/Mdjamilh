@@ -48,6 +48,9 @@ More projects, including APIs, libraries and developer tools, are in my [reposit
 
   [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
   [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](#)
+  [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)](#)
+  [![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)](#)
+  [![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)](#)
   [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
   [![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)](#)
   [![Hono](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=white)](#)
