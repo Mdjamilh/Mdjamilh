@@ -18,6 +18,7 @@
 | [realtime-kanban](https://github.com/Mdjamilh/realtime-kanban) | A task board where several people can move cards around at once and everyone sees the same thing instantly, even after working offline for a while | [Demo](https://realtime-kanban-eight.vercel.app) |
 | [fhir-patient-explorer](https://github.com/Mdjamilh/fhir-patient-explorer) | Opens a patient's medical record from a standard health-records server and lays it out clearly: a one-page summary, lab results charted over time, conditions, medicines, visits and vaccines | [Demo](https://fhir-patient-explorer-khaki.vercel.app) |
 | [budget-tracker](https://github.com/Mdjamilh/budget-tracker) | A private money tracker: set monthly budgets, see where your money goes and import statements from your bank. Everything stays on your own device and it works without internet | [Demo](https://budget-tracker-two-kohl.vercel.app) |
+| [envguard-cli](https://github.com/Mdjamilh/envguard-cli) | A command-line safety check for developers: it catches missing or mistyped app settings before a release and stops passwords and keys from being accidentally published with the code | [Download](https://github.com/Mdjamilh/envguard-cli/releases/latest) |
 
 <h2> Trophies </h2>
 
@@ -38,6 +39,7 @@
 
   [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+  [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white)](#)
   [![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)](#)
 
 </span>
