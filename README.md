@@ -17,6 +17,7 @@
 | [hl7-parser-ts](https://github.com/Mdjamilh/hl7-parser-ts) | A toolkit for developers to read, check and reply to the messages hospital systems send each other, such as admissions and lab results | [Code](https://github.com/Mdjamilh/hl7-parser-ts#readme) |
 | [realtime-kanban](https://github.com/Mdjamilh/realtime-kanban) | A task board where several people can move cards around at once and everyone sees the same thing instantly, even after working offline for a while | [Demo](https://realtime-kanban-eight.vercel.app) |
 | [fhir-patient-explorer](https://github.com/Mdjamilh/fhir-patient-explorer) | Opens a patient's medical record from a standard health-records server and lays it out clearly: a one-page summary, lab results charted over time, conditions, medicines, visits and vaccines | [Demo](https://fhir-patient-explorer-khaki.vercel.app) |
+| [budget-tracker](https://github.com/Mdjamilh/budget-tracker) | A private money tracker: set monthly budgets, see where your money goes and import statements from your bank. Everything stays on your own device and it works without internet | [Demo](https://budget-tracker-two-kohl.vercel.app) |
 
 <h2> Trophies </h2>
 
@@ -51,6 +52,7 @@
   [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
   [![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?logo=drizzle&logoColor=000)](#)
   [![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white)](#)
+  [![Mantine](https://img.shields.io/badge/Mantine-339AF0?logo=mantine&logoColor=white)](#)
 
 </span>
 
@@ -60,6 +62,7 @@
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)
   ![pgvector](https://img.shields.io/badge/pgvector-4169E1?logo=postgresql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
+  ![IndexedDB](https://img.shields.io/badge/IndexedDB-5A29E4?logo=databricks&logoColor=white)
 
 </span>
 
