@@ -16,6 +16,7 @@
 | [medtrack-api](https://github.com/Mdjamilh/medtrack-api) | The service behind a medication reminder app: it keeps track of medicines and schedules, records doses taken, and reports how well someone is keeping to their plan | [Docs](https://medtrack-api-sigma.vercel.app/docs) |
 | [hl7-parser-ts](https://github.com/Mdjamilh/hl7-parser-ts) | A toolkit for developers to read, check and reply to the messages hospital systems send each other, such as admissions and lab results | [Code](https://github.com/Mdjamilh/hl7-parser-ts#readme) |
 | [realtime-kanban](https://github.com/Mdjamilh/realtime-kanban) | A task board where several people can move cards around at once and everyone sees the same thing instantly, even after working offline for a while | [Demo](https://realtime-kanban-eight.vercel.app) |
+| [fhir-patient-explorer](https://github.com/Mdjamilh/fhir-patient-explorer) | Opens a patient's medical record from a standard health-records server and lays it out clearly: a one-page summary, lab results charted over time, conditions, medicines, visits and vaccines | [Demo](https://fhir-patient-explorer-khaki.vercel.app) |
 
 <h2> Trophies </h2>
 
