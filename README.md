@@ -19,6 +19,7 @@
 | [fhir-patient-explorer](https://github.com/Mdjamilh/fhir-patient-explorer) | Opens a patient's medical record from a standard health-records server and lays it out clearly: a one-page summary, lab results charted over time, conditions, medicines, visits and vaccines | [Demo](https://fhir-patient-explorer-khaki.vercel.app) |
 | [budget-tracker](https://github.com/Mdjamilh/budget-tracker) | A private money tracker: set monthly budgets, see where your money goes and import statements from your bank. Everything stays on your own device and it works without internet | [Demo](https://budget-tracker-two-kohl.vercel.app) |
 | [envguard-cli](https://github.com/Mdjamilh/envguard-cli) | A command-line safety check for developers: it catches missing or mistyped app settings before a release and stops passwords and keys from being accidentally published with the code | [Download](https://github.com/Mdjamilh/envguard-cli/releases/latest) |
+| [snip-links](https://github.com/Mdjamilh/snip-links) | Turns long web addresses into short ones with a QR code, and shows the owner how many people clicked and from where, without accounts or tracking cookies | [Demo](https://snip-links.vercel.app) |
 
 <h2> Trophies </h2>
 
@@ -51,6 +52,8 @@
   [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](#)
   [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
   [![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)](#)
+  [![Hono](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=white)](#)
+  [![htmx](https://img.shields.io/badge/htmx-3366CC?logo=htmx&logoColor=white)](#)
   [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
   [![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?logo=drizzle&logoColor=000)](#)
   [![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white)](#)
