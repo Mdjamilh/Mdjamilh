@@ -13,13 +13,11 @@
 | [clinic-appointment-scheduler](https://github.com/Mdjamilh/clinic-appointment-scheduler) | Lets patients find a doctor, see open times and book, change or cancel appointments online, while clinic staff see the day's schedule at a glance | [Demo](https://clinic-appointment-scheduler-kappa.vercel.app) |
 | [care-note-ai](https://github.com/Mdjamilh/care-note-ai) | Turns a doctor–patient conversation into a tidy visit summary for the doctor to review, removing names and other personal details first | [Demo](https://carenote-ai-nine.vercel.app) |
 | [guideline-rag-search](https://github.com/Mdjamilh/guideline-rag-search) | Answers everyday health questions such as "When should I get screened for colon cancer?" and shows which official guideline each answer comes from | [Demo](https://guideline-rag-search.vercel.app) |
-| [medtrack-api](https://github.com/Mdjamilh/medtrack-api) | The service behind a medication reminder app: it keeps track of medicines and schedules, records doses taken, and reports how well someone is keeping to their plan | [Docs](https://medtrack-api-sigma.vercel.app/docs) |
-| [hl7-parser-ts](https://github.com/Mdjamilh/hl7-parser-ts) | A toolkit for developers to read, check and reply to the messages hospital systems send each other, such as admissions and lab results | [Code](https://github.com/Mdjamilh/hl7-parser-ts#readme) |
 | [realtime-kanban](https://github.com/Mdjamilh/realtime-kanban) | A task board where several people can move cards around at once and everyone sees the same thing instantly, even after working offline for a while | [Demo](https://realtime-kanban-eight.vercel.app) |
 | [fhir-patient-explorer](https://github.com/Mdjamilh/fhir-patient-explorer) | Opens a patient's medical record from a standard health-records server and lays it out clearly: a one-page summary, lab results charted over time, conditions, medicines, visits and vaccines | [Demo](https://fhir-patient-explorer-khaki.vercel.app) |
-| [budget-tracker](https://github.com/Mdjamilh/budget-tracker) | A private money tracker: set monthly budgets, see where your money goes and import statements from your bank. Everything stays on your own device and it works without internet | [Demo](https://budget-tracker-two-kohl.vercel.app) |
 | [envguard-cli](https://github.com/Mdjamilh/envguard-cli) | A command-line safety check for developers: it catches missing or mistyped app settings before a release and stops passwords and keys from being accidentally published with the code | [Download](https://github.com/Mdjamilh/envguard-cli/releases/latest) |
-| [snip-links](https://github.com/Mdjamilh/snip-links) | Turns long web addresses into short ones with a QR code, and shows the owner how many people clicked and from where, without accounts or tracking cookies | [Demo](https://snip-links.vercel.app) |
+
+More projects, including APIs, libraries and developer tools, are in my [repositories](https://github.com/Mdjamilh?tab=repositories).
 
 <h2> Trophies </h2>
 
