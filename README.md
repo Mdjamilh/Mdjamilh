@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Md. Jamil Hossain <br> Aspiring software engineer</h1>
+<h1 align="center">Hi, I'm Md. Jamil Hossain</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mdjamilh" alt="Mdjamilh" /> </p>
 
