@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Mdjamilh.Mdjamilh&left_text=Profile%20views&right_color=%230e75b6" alt="Mdjamilh" /> </p>
 
-- I mostly work with TypeScript, React, Next.js, Node.js and PostgreSQL
+- I mostly work with TypeScript, Python, React, Next.js, Node.js, FastAPI and PostgreSQL
 - I enjoy building features end to end: database, API, UI, tests and documentation
 - Currently learning more about AI integrations and search
 
@@ -11,13 +11,13 @@
 | Project | What it does | Live |
 |---|---|---|
 | [clinic-appointment-scheduler](https://github.com/Mdjamilh/clinic-appointment-scheduler) | Lets patients find a doctor, see open times and book, change or cancel appointments online, while clinic staff see the day's schedule at a glance | [Demo](https://clinic-appointment-scheduler-kappa.vercel.app) |
+| [split-ledger](https://github.com/Mdjamilh/split-ledger) | Splits shared costs for trips, flats and dinners, keeps balances in several currencies and works out how to settle up in the fewest payments | [Demo](https://split-ledger-murex.vercel.app) |
+| [pantry-planner](https://github.com/Mdjamilh/pantry-planner) | A meal planner that tracks what is in the kitchen and when it expires, plans the week, builds the shopping list and suggests dishes that use food before it goes off | [Demo](https://pantry-planner-sage-six.vercel.app) |
 | [care-note-ai](https://github.com/Mdjamilh/care-note-ai) | Turns a doctor–patient conversation into a tidy visit summary for the doctor to review, removing names and other personal details first | [Demo](https://carenote-ai-nine.vercel.app) |
-| [guideline-rag-search](https://github.com/Mdjamilh/guideline-rag-search) | Answers everyday health questions such as "When should I get screened for colon cancer?" and shows which official guideline each answer comes from | [Demo](https://guideline-rag-search.vercel.app) |
 | [realtime-kanban](https://github.com/Mdjamilh/realtime-kanban) | A task board where several people can move cards around at once and everyone sees the same thing instantly, even after working offline for a while | [Demo](https://realtime-kanban-eight.vercel.app) |
-| [fhir-patient-explorer](https://github.com/Mdjamilh/fhir-patient-explorer) | Opens a patient's medical record from a standard health-records server and lays it out clearly: a one-page summary, lab results charted over time, conditions, medicines, visits and vaccines | [Demo](https://fhir-patient-explorer-khaki.vercel.app) |
 | [envguard-cli](https://github.com/Mdjamilh/envguard-cli) | A command-line safety check for developers: it catches missing or mistyped app settings before a release and stops passwords and keys from being accidentally published with the code | [Download](https://github.com/Mdjamilh/envguard-cli/releases/latest) |
 
-More projects, including APIs, libraries and developer tools, are in my [repositories](https://github.com/Mdjamilh?tab=repositories).
+More projects, including APIs, a data structures library in Python and developer tools, are in my [repositories](https://github.com/Mdjamilh?tab=repositories).
 
 <h2> Trophies </h2>
 
@@ -38,8 +38,10 @@ More projects, including APIs, libraries and developer tools, are in my [reposit
 
   [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+  [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
   [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white)](#)
   [![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)](#)
+  [![CSS](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white)](#)
 
 </span>
 
@@ -53,10 +55,13 @@ More projects, including APIs, libraries and developer tools, are in my [reposit
   [![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)](#)
   [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
   [![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)](#)
+  [![FastAPI](https://img.shields.io/badge/FastAPI-009485?logo=fastapi&logoColor=white)](#)
+  [![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white)](#)
   [![Hono](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=white)](#)
   [![htmx](https://img.shields.io/badge/htmx-3366CC?logo=htmx&logoColor=white)](#)
   [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
   [![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?logo=drizzle&logoColor=000)](#)
+  [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)](#)
   [![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white)](#)
   [![Mantine](https://img.shields.io/badge/Mantine-339AF0?logo=mantine&logoColor=white)](#)
 
@@ -90,6 +95,7 @@ More projects, including APIs, libraries and developer tools, are in my [reposit
   [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](#)
   [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
   [![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)](#)
+  [![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white)](#)
   [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)](#)
   [![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](#)
 
